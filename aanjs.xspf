@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Звучна листа</title>
+	<trackList>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/All%20about%20Node.js%20-%20From%20the%20Ground%20Up%20and%20More.MP4</location>
+			<duration>215273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%201%20-%20Prologue/1-%20What%20is%20NodeJS%20.MP4</location>
+			<duration>602348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%202%20-%20Installing%20NodeJS/2-%20Installing%20NodeJS%20on%20Windows.MP4</location>
+			<duration>97175</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%202%20-%20Installing%20NodeJS/3-%20Installing%20NodeJS%20on%20a%20Mac%20.MP4</location>
+			<duration>101400</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%203%20-%20Your%20First%20Steps%20with%20NodeJS/4-%20Read-Evaluate-Print-Line%20-%20REPL%20&amp;%20Hello%20Node%20!.MP4</location>
+			<duration>203035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%203%20-%20Your%20First%20Steps%20with%20NodeJS/5-%20Writing%20a%20Hello%20World%20Server%20!.MP4</location>
+			<duration>316231</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%203%20-%20Your%20First%20Steps%20with%20NodeJS/6-%20Writing%20a%20Basic%20Web%20Server%20using%20NodeJS%20-%20%20Using%20Modules.MP4</location>
+			<duration>393763</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%203%20-%20Your%20First%20Steps%20with%20NodeJS/7-%20Write%20an%20Efficient%20Web%20Server%20-%20%20Using%20Streams%20.MP4</location>
+			<duration>304715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%203%20-%20Your%20First%20Steps%20with%20NodeJS/8-%20Understanding%20the%20Node%20Package%20Manager%20&amp;%20package.json.MP4</location>
+			<duration>393113</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%204%20-%20MongoDB%20101/9-%20Introduction%20to%20MongoDB.MP4</location>
+			<duration>595963</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%204%20-%20MongoDB%20101/10-%20Installing%20MongoDB%20on%20Windows%20&amp;%20Mongo%20Shell%20Basics.MP4</location>
+			<duration>696736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/11-%20Introduction%20to%20ChatCAT.MP4</location>
+			<duration>261176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/12-%20IMPORTANT%20%20Before%20You%20Begin.pdf</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/13-%20Examining%20the%20UI%20and%20Getting%20Started.MP4</location>
+			<duration>253328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/14-%20Creating%20an%20Express%204%20App.MP4</location>
+			<duration>315140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/15-%20Setting%20Hogan%20as%20the%20Template%20Engine.MP4</location>
+			<duration>447076</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/16-%20Creating%20a%20Routes%20Module.MP4</location>
+			<duration>344630</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/17-%20The%20Database%20-%20Signing%20Up%20on%20MongoLab.com.MP4</location>
+			<duration>251680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/18-%20Session%20Management.MP4</location>
+			<duration>444568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/19-%20Creating%20Configurations.MP4</location>
+			<duration>939478</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/20-%20The%20Database%20-%20Setting%20up%20MongooseJS.MP4</location>
+			<duration>401773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/21-%20Login%20with%20Facebook%20-%20Creating%20an%20App%20on%20Facebook.MP4</location>
+			<duration>210836</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/22-%20Login%20with%20Facebook%20-%20Setting%20up%20PassportJS.MP4</location>
+			<duration>238166</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/23-%20Login%20with%20Facebook%20-%20Facebook%20Strategy.MP4</location>
+			<duration>814113</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/24-%20Login%20with%20Facebook%20-%20Routes%20&amp;%20Middleware.MP4</location>
+			<duration>674491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/25-%20Socket.IO%20-%20Installation%20and%20Setup.MP4</location>
+			<duration>289203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/26-%20Socket.IO%20-%20Listing%20Chatrooms.MP4</location>
+			<duration>478005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/27-%20Socket.IO%20-%20Creating%20a%20New%20Chatroom.MP4</location>
+			<duration>972776</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/28-%20Socket.IO%20-%20Joining%20a%20new%20Room%20-%201.MP4</location>
+			<duration>755995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/29-%20Socket.IO%20-%20Joining%20a%20new%20Room%20-%202.MP4</location>
+			<duration>590135</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/30-%20Socket.IO%20-%20Sending%20a%20message%20&amp;%20updating%20the%20message%20feed.MP4</location>
+			<duration>944726</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/31-%20Socket.IO%20-%20Updating%20active%20users%20in%20a%20chatroom.MP4</location>
+			<duration>620296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/32-%20Heroku%20-%20Setting%20up%20for%20Heroku%20Deployment.MP4</location>
+			<duration>320806</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%205%20-%20ChatCAT%20-%20Creating%20a%20Realtime%20Multiroom%20Chat%20App%20&amp;%20Deploying%20it%20on%20Heroku/33-%20Heroku%20-%20Deploying%20to%20Heroku.MP4</location>
+			<duration>655893</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/34-%20Introduction%20to%20Project%20PhotoGRID.MP4</location>
+			<duration>311773</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/35-%20IMPORTANT%20%20Before%20you%20Begin.pdf</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/36-%20Examining%20the%20User%20Interface%20&amp;%20Getting%20Started.MP4</location>
+			<duration>401565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/37-%20Creating%20the%20Express%20App%20&amp;%20Setting%20up%20Socket.io.MP4</location>
+			<duration>490730</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/38-%20Creating%20the%20Routes.js%20module.MP4</location>
+			<duration>106440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/39-%20Creating%20Configuration%20Files.MP4</location>
+			<duration>182508</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/40-%20Amazon%20Web%20Services%20-%20Signing%20Up%20&amp;%20Creating%20an%20S3%20Bucket.MP4</location>
+			<duration>336526</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/41-%20Amazon%20Web%20Services%20-%20Setting%20up%20a%20Bucket%20Policy.MP4</location>
+			<duration>293406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/42-%20Amazon%20Web%20Services%20-%20Setting%20up%20Knox.MP4</location>
+			<duration>304876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/43-%20Setting%20up%20the%20Upload%20Button%20Handler%20&amp;%20AJAX.MP4</location>
+			<duration>888998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/44-%20Setting%20up%20Formidable%20for%20Receiving%20the%20files.MP4</location>
+			<duration>821498</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/45-%20Setting%20up%20GraphicsMagick%20Library%20+%20gm%20for%20Nodejs%20for%20resizing%20images.MP4</location>
+			<duration>316811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/46-%20Uploading%20resized%20images%20to%20the%20S3%20using%20Knox.MP4</location>
+			<duration>313213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/47-%20Storing%20the%20file%20name%20and%20votes%20in%20MongoDB%20on%20MongoLab.MP4</location>
+			<duration>725646</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/48-%20Getting%20images%20into%20the%20Photogrid%20gallery.MP4</location>
+			<duration>936413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/49-%20Amazon%20Web%20Services%20-%20Setting%20up%20CloudFront%20Distribution.MP4</location>
+			<duration>259598</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/50-%20Creating%20the%20Vote%20Up%20Functionality%20&amp;%20Final%20Testing.MP4</location>
+			<duration>650041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/51-%20Amazon%20Web%20Services%20-%20Creating%20an%20Elastic%20Compute%20Cloud%20(EC2)%20Instance.MP4</location>
+			<duration>358608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/52-%20Amazon%20Web%20Services%20-%20Installing%20NodeJS%20on%20EC2.MP4</location>
+			<duration>278500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/53-%20Amazon%20Web%20Services%20-%20Creating%20an%20Elastic%20IP%20for%20your%20EC2%20Instance.MP4</location>
+			<duration>191493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/54-%20Amazon%20Web%20Services%20-%20Installing%20the%20Photogrid%20App%20on%20the%20EC2%20Instance.MP4</location>
+			<duration>415381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/55-%20Amazon%20Web%20Services%20-%20Security%20Group,%20Ports%20&amp;%20Port%20Forwarding.MP4</location>
+			<duration>847133</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%206%20-%20Node.JS%20on%20Amazon%20Web%20Services!/56-%20Amazon%20Web%20Services%20-%20Ensuring%20the%20Photogrid%20app%20runs%20automatically.MP4</location>
+			<duration>437393</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/57-%20What%20are%20we%20talking%20about.MP4</location>
+			<duration>218313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/58-%20The%20Awesome%20Cloud9%20IDE.MP4</location>
+			<duration>432796</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/59-%20Spinning%20a%20Droplet%20on%20Digital%20Ocean%20&amp;%20Using%20Cloud9IDE.MP4</location>
+			<duration>451233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/60-%20Installing%20Nginx.MP4</location>
+			<duration>98940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/61-%20Nginx%20as%20a%20Proxy%20Server%20for%20NodeJS.MP4</location>
+			<duration>475730</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/62-%20Uploading%20and%20Reconfiguring%20ChatCAT%20to%20work%20with%20Nginx.MP4</location>
+			<duration>362531</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%207%20-%20NodeJS%20and%20NGINX%20for%20the%20Kill!/63-%20Load%20Balancing%20with%20NGINX.MP4</location>
+			<duration>239861</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/alephone/F03A3A023A39C67E/laptop/t1/t1/All%20about%20Node.js%20From%20the%20Ground%20Up%20and%20More/Section%208%20-%20Epilogue%20-%20Towards%20a%20New%20Beginning/64-%20Into%20the%20Future%20&amp;%20Thanks.MP4</location>
+			<duration>162213</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+	</extension>
+</playlist>
